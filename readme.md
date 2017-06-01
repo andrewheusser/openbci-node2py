@@ -18,6 +18,11 @@ This module has every feature available on the OpenBCI Board.
 
 
 ## Installation
+
+1. Install Node.js: https://nodejs.org/en/
+
+
+
 For Python 2.7 do:
 ```bash
 python setup.py install
